@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CompareNumbers</string>
+    <string name="input1">Input a number</string>
+    <string name="input2">Input another number</string>
+</resources>
